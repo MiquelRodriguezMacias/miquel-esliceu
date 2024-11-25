@@ -15,3 +15,9 @@ Buenas! Soy **Miquel** alumno del Liceu de **FPGM  de sistemas microinformaticos
  > - Proporcionar informacion sobre los modulos de este curso.
  > - Hacer mas facil la realizacion de ciertos ejercicios.
  > - Promover la docencia entre el alumnado de este curso.
+ > - Aprender a usar GitHub.
+ > - Aprender a usar Visual Studio Code.
+ # 🧰Herramientas utilizadas.
+ - GitHub
+ - Visual Studio Code
+ - Terminal
